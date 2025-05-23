@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageTags>Hyperlight;Virtualization;Isolation;VMM;Virtual Machine Manager</PackageTags>
+        <PackageId>Hyperlight</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Hyperlight dev; BlueCurve Corp; Teddy ALBINA</Authors>
+        <Company>Hyperlight</Company>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    </PropertyGroup>
+</Project>
